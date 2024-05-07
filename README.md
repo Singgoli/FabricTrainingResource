@@ -5,5 +5,5 @@ This Repo is intended to hold any resources required for Fabric Training Exercis
 - Guides
 - Instructions
 
-You can access the training guides & instructions in Material folder.
+You can access the training guides & instructions in Material folder.<br>
 Data folder holds data source files used in the module.
